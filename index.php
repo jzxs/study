@@ -8,3 +8,5 @@
 echo 'master';
 
 echo 'dev';
+
+echo 'bug';
