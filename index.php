@@ -6,3 +6,5 @@
  * Time: 17:49
  */
 echo 'master';
+
+echo 'dev';
