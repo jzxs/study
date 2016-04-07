@@ -10,3 +10,5 @@ echo 'master';
 echo 'dev';
 
 echo 'bug';
+
+echo 'on master';
